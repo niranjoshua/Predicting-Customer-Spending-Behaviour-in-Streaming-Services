@@ -5,7 +5,7 @@ This project explores supervised and unsupervised machine learning techniques to
 📂 Dataset
 Source: Kaggle
 
-Link: Streaming Service Data
+Link: [Streaming Service Data](https://www.kaggle.com/datasets/akashanandt/streaming-service-data)
 
 🧠 Project Goals
 The project investigates:
